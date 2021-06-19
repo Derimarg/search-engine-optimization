@@ -24,6 +24,7 @@ Social media continues to have a sizable influence on buying habits. Social medi
 
 - [Description](#description)
 - [Download](#how-to-download)
+- [References](#references)
 - [License](#license)
 - [Author Info](#author-info)
 
@@ -85,7 +86,7 @@ git push or git push origin main
 
 MIT License
 
-Copyright (c) [2021] [Derimar Gray]
+Copyright (c) 2021 Derimar Gray
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -105,7 +106,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Back To The Top](#search-engine-optimization
+[Back To The Top](#search-engine-optimization)
 
 ---
 
